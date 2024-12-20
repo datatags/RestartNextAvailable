@@ -1,0 +1,10 @@
+name: RestartNextAvailable
+version: 1.0
+author: Datatags
+main: me.datatags.restartnextavailable.RestartNextAvailable
+api-version: 1.17
+commands:
+    rna:
+        description: Enables RNA
+        permission: restartnextavailable.use
+        usage: /<command>
